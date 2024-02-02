@@ -7,3 +7,4 @@ for i in range(len(s)):
   else:
     res+=chr((ord(s[i])+(ord(key[i])-ord("A")))-26)
 print(res)
+#res = QGCCTW
