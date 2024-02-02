@@ -5,3 +5,4 @@ for i in s:
     res+=chr(ord(i)-3)
 
 print(res)
+#res = STANDA
